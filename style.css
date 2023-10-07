@@ -1,0 +1,31 @@
+body{
+    background-color: #FCE44D;
+}
+h1{
+    color: firebrick;
+    font-style: italic;
+}
+details#a1{
+    color: rgb(218, 32, 72);
+}
+summary{
+    list-style-type: none;
+    size: 110px;
+}
+div{
+    background-color: greenyellow;
+    padding: 87px;
+    margin: 41px;
+    width: 110px;
+}
+a{
+    color: rgb(43, 190, 117);
+    text-decoration: none;
+}
+
+::placeholder {
+    color: blue;
+}
+input{
+    border-radius: 1000000000000000000000000000000000000000000000000000000000000000000px;
+}
